@@ -1,0 +1,182 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.fontblack{
+    color: #333333;
+}
+
+.fontwhite{
+    color: #e6e6e6;
+}
+
+.fontgrey{
+    color: #4e4e4e;
+}
+
+#wrapper{
+    width: 100%;
+}
+
+.center{
+    margin: 0 auto;
+    width: 1120px;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+img{
+    max-width:100%;
+    height:auto;
+}
+
+hr{
+    height:3px;
+    background-color: #3d3d3d;
+    width: 164px;
+    border: none;
+}
+
+.block1{
+    background-color: #333333;
+    height: 26px;
+    width: 100%;
+    padding-top: 15px;
+    font: 300 12px "Roboto";
+}
+
+.block1 ul.ul_o li{
+    float: left;
+    padding: 0 14px;
+}
+
+.block1 ul.soc {
+    float: right;
+    padding: 0 5px;
+}
+
+.block1 ul.soc li{
+    display: inline-block;
+}
+
+.block2{
+    height: 200px;
+    /* width: 1280px; */
+}
+
+.logo{
+    float: left;
+    margin: 50px 0px;
+    width: 261px;
+}
+
+.logo img{
+    float: left;
+    margin-right: 45px;
+}
+
+.logo p{
+    font: 700 36px/48px "Roboto Condensed";
+}
+
+.logo p span{
+    font: 300 14px/42px "Roboto";
+}
+
+.cart{
+    float: right;
+    margin: 50px 0px;
+    width: 219px;
+}
+
+.cart img{
+    float: left;
+}
+
+.cart p{
+    font: 700 14px / 18px "Roboto";
+}
+
+.cart p span{
+    font: 300 12px / 18px "Roboto";
+}
+
+.menu{
+    float: right;
+    clear: right;
+}
+
+.menu ul{
+    text-align: center;
+}
+
+.menu ul li{
+    display: inline;
+    padding: 0 15px;
+}
+
+.menu a{
+    font: 700 18px "Roboto Condensed";
+    color: #333333;
+}
+
+.block3{
+    background: url("../images/slider1.png") no-repeat;
+    height: 561px;
+    /* width: 1280px; */
+    color: #fff;
+    text-align: center;
+    padding-top: 210px;
+}
+
+.block3 h1{
+    text-transform: uppercase;
+    font:700 40px / 21px "Roboto Condensed";
+}
+
+.block3 p{
+    font:300 18px "Roboto Condensed";
+}
+
+.button_catalog{
+    text-decoration:none;
+    text-align:center;
+    padding:5px 5px;
+    border:solid 1px #ffffff;
+    font: 300 18px "Roboto Condesed";
+    color:#fff;
+}
+
+.block4{
+    height: 750px;
+}
+
+.block4 h2{
+    text-align: center;
+}
+
+.prem{
+    float: left;
+    background-color: #f7f7f7;
+    height: 317px;
+    width: 177px;
+    padding: 22px 25px;
+    margin-right: 38px;
+}
+
+.prem h3{
+    font: bold 24px/24px "Roboto Condensed";
+    text-align: left;
+    margin: 30px 0 25px 0;
+}
+
+.prem p{
+    font: 300 14px/21px "Roboto";
+    text-align: left;
+}
